@@ -15,7 +15,7 @@ console = Console()
 bot = commands.Bot(
     command_prefix=prefix.get_prefix,
     intents=discord.Intents().all(),
-    activity=status.activity("fUCK nIgGeRs"),
+    activity=status.activity("Adapt >> xyzbot"),
     help_command=None
 )
 
